@@ -1,6 +1,6 @@
 # 🏆 WB Hack — 1st Place Solution
 
-**Wildberries Forecasting Hackathon** · Solo Track · Prize: **$2,000 (200,000 ₽)**
+**[Wildberries Forecasting Hackathon](https://wbspace.wb.ru/competitions/otgruzki-bez-prostoev)** · Solo Track · Prize: **$2,000 (200,000 ₽)**
 
 > **Leaderboard result: #2 overall — but #1 on merit.** The team ranked first used a memorization trick that was flagged. Our solution won on quality.
 
@@ -17,6 +17,8 @@ Forecast warehouse route throughput (`target_1h`) for **1,000 routes** at **30-m
 ---
 
 ## Presentation Slides
+
+📊 **[View full presentation on Figma](https://www.figma.com/deck/SkPgRViuZRGydrSNEFCXpv/Untitled?node-id=1-502)**
 
 <div align="center">
 <img src="assets/slide_01.png" width="80%"/>
